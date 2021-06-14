@@ -1,0 +1,13 @@
+{
+  "name": "com.kodai100.time-code-calculator",
+  "displayName": "TimeCode Calculator for Unity",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "TimeCode Calculator for Unity",
+  "keywords": [
+    "ProjectBLUE",
+    "kodai100",
+    "Live"
+  ],
+  "unityRelease": "10f1"
+}
